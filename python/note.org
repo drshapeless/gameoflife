@@ -1,0 +1,11 @@
+#+title: Note
+
+* TODO Create a window
+Use tkinter library.
+
+Install tk library.
+#+begin_src shell
+  paru -S tk
+#+end_src
+
+* TODO Draw a rectangle
