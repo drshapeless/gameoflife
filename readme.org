@@ -1,0 +1,15 @@
+#+title: Game of Life
+
+This is a project where I attempt to use different approach to build
+the Conway's game of life.
+
+This is mainly for a test of my target based learning.
+
+* Note
+There will be a note.org in each subdirectory describing problems and
+solutions.
+
+Potential problems should be listed as TODO, if the problem is solved,
+mark it as DONE.
+
+For each solved problem, create an org-roam note.
